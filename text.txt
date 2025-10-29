@@ -25,7 +25,7 @@ Vad är GitHub?
 
 GitHub är en [molnplattfrom] som låter dig spara Git-repon online. Det gör det möjligt att samarbeta, granska kod och dela projekt offentligt eller privat.
 
-För att koppla ditt lokala repo till GitHub [skapar] du först ett nytt repo på GitHub.com. Sedan kopplar du det med:
+För att koppla ditt lokala repo till GitHub [skapr] du först ett nytt repo på GitHub.com. Sedan kopplar du det med:
 
 git remote add origin https://github.com/ditt-användarnamn/ditt-repo.git
 
@@ -35,7 +35,7 @@ Därefter kan du skicka upp dina ändringar till molnet med:
 git push -u origin main
 
 
-På GitHub kan andra användare [klona] ditt projekt, skapa egna branches för att arbeta på nya funktioner, och sedan göra pull requests för att föreslå att deras ändringar ska läggas in i huvudprojektet.
+På GitHub kan andra användare [klon] ditt projekt, skapa egna branches för att arbeta på nya funktioner, och sedan göra pull requests för att föreslå att deras ändringar ska läggas in i huvudprojektet.
 
 Vanliga Git-kommandon
 
@@ -51,7 +51,7 @@ git merge – sammanfogar två grenar.
 
 Brancher och samarbete
 
-En branch används för att arbeta med nya funktioner utan att påverka huvudkoden direkt. När du är nöjd, slår du ihop din branch med main. Det är ett säkert sätt att testa ny kod utan att riskera att något går [sönder i projektet].
+En branch används för att arbeta med nya funktioner utan att påverka huvudkoden direkt. När du är nöjd, slår du ihop din branch med main. Det är ett säkert sätt att testa ny kod utan att riskera att något går [sönder i projeket].
 
 Team som arbetar tillsammans använder ofta pull requests för att granska varandras kod innan den godkänns. Det gör utvecklingen mer strukturerad och minskar risken för fel.
 
@@ -61,7 +61,7 @@ Gör små, tydliga commits istället för stora klumpar.
 
 Skriv tydliga commit-meddelanden (inte bara “fix”).
 
-Uppdatera ofta från main så du inte [hamnar] efter.
+Uppdatera ofta från main så du inte [hammar] efter.
 
 Använd .gitignore för att utesluta filer som inte ska spåras, som tillfälliga filer eller lösenord.
 
@@ -71,4 +71,4 @@ Sammanfattning
 
 Git håller reda på historiken för ditt projekt, och GitHub gör det möjligt att samarbeta och dela koden. Tillsammans gör de utvecklingsprocessen snabbare, säkrare och mer organiserad.
 
-Oavsett om du jobbar ensam eller i ett stort team, är Git och GitHub [ovärderliga] verktyg för att hålla ordning på ditt arbete, och för att bidra till öppen källkodsvärlden.
+Oavsett om du jobbar ensam eller i ett stort team, är Git och GitHub [ovärderligaste] verktyg för att hålla ordning på ditt arbete, och för att bidra till öppen källkodsvärlden.
