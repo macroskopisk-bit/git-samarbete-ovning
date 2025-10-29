@@ -1,0 +1,74 @@
+Kort guide till Git och GitHub
+
+Git är ett versionshanteringssystem som används för att spara och hantera kodändringar över tid. Det utvecklades av Linus Torvalds 2005 för att hjälpa utvecklare samarbeta och spåra förändringar i sina projekt. Git är idag ett av de mest använda [verktygena] inom mjukvaruutveckling, både för individer och team.
+
+Vad är Git?
+
+Git fungerar som ett “system för snapshots”. Varje gång du gör en commit, sparas en bild av hur projektet ser ut just då. Du kan enkelt gå tillbaka till tidigare versioner, jämföra [skilnader] och ångra misstag.
+
+För att börja använda Git behöver du installera det lokalt på din dator. När du har gjort det, kan du skapa ett nytt repo (repository) med kommandot:
+
+git init
+
+
+Detta skapar ett nytt tomt Git-arkiv i din mapp.
+
+När du gjort ändringar i filer lägger du till dem i “[stagin area]” och sedan sparar du förändringarna med:
+
+git add filnamn
+git commit -m "Ditt commit-meddelande"
+
+
+Det är viktigt att skriva beskrivande [comit-meddelanden], så andra (och du själv) lätt förstår vad som ändrades.
+
+Vad är GitHub?
+
+GitHub är en [molnplattfrom] som låter dig spara Git-repon online. Det gör det möjligt att samarbeta, granska kod och dela projekt offentligt eller privat.
+
+För att koppla ditt lokala repo till GitHub [skapr] du först ett nytt repo på GitHub.com. Sedan kopplar du det med:
+
+git remote add origin https://github.com/ditt-användarnamn/ditt-repo.git
+
+
+Därefter kan du skicka upp dina ändringar till molnet med:
+
+git push -u origin main
+
+
+På GitHub kan andra användare [klon] ditt projekt, skapa egna branches för att arbeta på nya funktioner, och sedan göra pull requests för att föreslå att deras ändringar ska läggas in i huvudprojektet.
+
+Vanliga Git-kommandon
+
+git status – visar vilka filer som ändrats.
+
+git log – visar commit-historik.
+
+git diff – visar skillnader mellan versioner.
+
+git branch – visar eller skapar nya grenar.
+
+git merge – sammanfogar två grenar.
+
+Brancher och samarbete
+
+En branch används för att arbeta med nya funktioner utan att påverka huvudkoden direkt. När du är nöjd, slår du ihop din branch med main. Det är ett säkert sätt att testa ny kod utan att riskera att något går [sönder i projeket].
+
+Team som arbetar tillsammans använder ofta pull requests för att granska varandras kod innan den godkänns. Det gör utvecklingen mer strukturerad och minskar risken för fel.
+
+Tips för bra Git-användning
+
+Gör små, tydliga commits istället för stora klumpar.
+
+Skriv tydliga commit-meddelanden (inte bara “fix”).
+
+Uppdatera ofta från main så du inte [hammar] efter.
+
+Använd .gitignore för att utesluta filer som inte ska spåras, som tillfälliga filer eller lösenord.
+
+Lär dig hur du använder git revert och git reset för att hantera misstag.
+
+Sammanfattning
+
+Git håller reda på historiken för ditt projekt, och GitHub gör det möjligt att samarbeta och dela koden. Tillsammans gör de utvecklingsprocessen snabbare, säkrare och mer organiserad.
+
+Oavsett om du jobbar ensam eller i ett stort team, är Git och GitHub [ovärderligga] verktyg för att hålla ordning på ditt arbete, och för att bidra till öppen källkodsvärlden.
