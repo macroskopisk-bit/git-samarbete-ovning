@@ -1,5 +1,5 @@
-tommy: Git är ett versionshanteringssystem som hjäper utvecklare att spara ändringar i kod.
-tommy: används för att samarbeta i projekt och hålla koll på olkia versioner.
+tommy: Git är ett versionshanteringssystem som hjäper utvecklare att spara ändringar i kod. -Redigerad av tommy
+tommy: används för att samarbeta i projekt och hålla koll på olkia versioner. -Redigerad av tommy
 Frida: Med Git kan man skapa grenar, så kallade brancher, för att testa nya ideér.
 Frida: När man är nöjd kan man slå ihop brancherna med huvudgrenen genom en merge.
 Martin: Alla ändrignar loggas och kan återställas om något går fel.
