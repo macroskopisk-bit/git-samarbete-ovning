@@ -16,7 +16,7 @@ Detta skapar ett nytt tomt Git-arkiv i din mapp.
 När du gjort ändringar i filer lägger du till dem i staging area och sedan sparar du förändringarna med:
 
 git add filnamn
-git commit -m "Ditt commit-meddelande"
+git commit -m "Ditt comit-meddelande"
 
 
 Det är viktigt att skriva beskrivande commit-meddelanden, så andra (och du själv) lätt förstår vad som ändrades.
