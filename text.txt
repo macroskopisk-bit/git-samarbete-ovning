@@ -25,7 +25,7 @@ Vad är GitHub?
 
 GitHub är en [molnplattfrom] som låter dig spara Git-repon online. Det gör det möjligt att samarbeta, granska kod och dela projekt offentligt eller privat.
 
-För att koppla ditt lokala repo till GitHub [skapar] du först ett nytt repo på GitHub.com. Sedan kopplar du det med:
+För att koppla ditt lokala repo till GitHub skapar du först ett nytt repo på GitHub.com. Sedan kopplar du det med:
 
 git remote add origin https://github.com/ditt-användarnamn/ditt-repo.git
 
@@ -35,7 +35,7 @@ Därefter kan du skicka upp dina ändringar till molnet med:
 git push -u origin main
 
 
-På GitHub kan andra användare [klona] ditt projekt, skapa egna branches för att arbeta på nya funktioner, och sedan göra pull requests för att föreslå att deras ändringar ska läggas in i huvudprojektet.
+På GitHub kan andra användare klona ditt projekt, skapa egna branches för att arbeta på nya funktioner, och sedan göra pull requests för att föreslå att deras ändringar ska läggas in i huvudprojektet.
 
 Vanliga Git-kommandon
 
