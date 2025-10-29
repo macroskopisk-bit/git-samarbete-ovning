@@ -71,4 +71,4 @@ Sammanfattning
 
 Git håller reda på historiken för ditt projekt, och GitHub gör det möjligt att samarbeta och dela koden. Tillsammans gör de utvecklingsprocessen snabbare, säkrare och mer organiserad.
 
-Oavsett om du jobbar ensam eller i ett stort team, är Git och GitHub [ovärderligga] verktyg för att hålla ordning på ditt arbete, och för att bidra till öppen källkodsvärlden.
+Oavsett om du jobbar ensam eller i ett stort team, är Git och GitHub [ovärderligaste] verktyg för att hålla ordning på ditt arbete, och för att bidra till öppen källkodsvärlden.
