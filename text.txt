@@ -23,7 +23,7 @@ Det är viktigt att skriva beskrivande commit-meddelanden, så andra (och du sj�
 
 Vad är GitHub?
 
-GitHub är en [molnplattfrom] som låter dig spara Git-repon online. Det gör det möjligt att samarbeta, granska kod och dela projekt offentligt eller privat.
+GitHub är en [molnplattform] som låter dig spara Git-repon online. Det gör det möjligt att samarbeta, granska kod och dela projekt offentligt eller privat.
 
 För att koppla ditt lokala repo till GitHub skapar du först ett nytt repo på GitHub.com. Sedan kopplar du det med:
 
