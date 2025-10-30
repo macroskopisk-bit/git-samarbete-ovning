@@ -1,0 +1,1 @@
+Ett par konflikter noterades, dessa hade att göra med att ändringar efter användare hade mergat in sina braanches i main och spelade ingen roll för innehållet i filen.
