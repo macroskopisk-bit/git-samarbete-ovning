@@ -1,8 +1,8 @@
-tommy: Git är ett versionshanteringssystem som hjälper utvecklare att spara ändringar i kod. -Redigerad av tommy, igen
-tommy: används för att samarbeta i projekt och hålla koll på olika versioner. -Redigerad av tommy, igen
-Frida: Med Git kan man skapa grenar, så kallade brancher, för att testa nya ideér.
-Frida: När man är nöjd kan man slå ihop brancherna med huvudgrenen genom en merge.
+tommy: Git är ett versionshanteringssystem som hjäper utvecklare att spara ändringar i kod. -Redigerad av tommy
+tommy: används för att samarbeta i projekt och hålla koll på olkia versioner. -Redigerad av tommy
+Frida: Med Git kan man skapa grenar (så kallade branches) för att testa nya ideér. -Redigerad av Frida
+Frida: När man är nöjd kan man slå ihop brancherna med huvudgrenen, genom en merge. -Redigerad av Frida
 Martin: Alla ändrignar loggas och kan återställas om något går fel.
 Martin: Git används ofta tillsammans med plattformar som GitHub och GitLab för sammarbete.
-Mattias: Man kan också använda pull requests för att granska ändringar innan de blr godkända.
-Mattias: Git fungerar bra både i små och stora proejkt, och är standard inom modern utveckling.
+Mattias E: Man kan också använda pull requests för att granska ändringar innan de blir godkända.
+Mattias E: Git fungerar bra både i små och stora projekt, och är standard inom modern utveckling.
